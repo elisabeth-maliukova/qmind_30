@@ -2,8 +2,8 @@
 NLP based Python program that aims to output a list of subjects needed to be addressed given public outrage event. 
 
 TODO:
--find a way to remove unnecessary characters (like emojis) from the comments
--finding a way to extract "big ideas" from comments (see SOW for some ideas) 
+1) find a way to remove unnecessary characters (like emojis) from the comments
+2) finding a way to extract "big ideas" from comments (see SOW for some ideas) 
 
 Instructions on making the code work:
 You guys will need to follow this tutorial to get this fully set up on your computers:
