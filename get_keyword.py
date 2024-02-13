@@ -9,7 +9,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-sentence = "here’s so much more about Trump to investigate than just Russia: Tax evasion, fraud, misuse of charitable funds..."
+sentence = "There’s so much more about Trump to investigate than just Russia: Tax evasion, fraud, misuse of charitable funds..."
 
 lemmatizer = WordNetLemmatizer()
 
